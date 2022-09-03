@@ -51,7 +51,7 @@ export default function SubmitModal( { open, setOpen } ) {
                       </Dialog.Title>
                       <div className="mt-0.5">
                         <p className="text-sm text-gray-500">
-                          I'll be sending you an email shortly
+                          I'll get back to you ASAP
                         </p>
                       </div>
                     </div>

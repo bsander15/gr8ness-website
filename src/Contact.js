@@ -23,7 +23,7 @@ const Contact = ({ testFunc }) => {
             testFunc();
         }
         
-        emailjs.sendForm('service_9tkk13k', 'template_ltd23uc', form.current, 'lXcXRP9Iow46XsrCa')
+        emailjs.sendForm('service_262ggbs', 'template_wkxjbtm', form.current, '6fgO-RNBdkwXB4jBn')
         .then((result) => {
             console.log(result.text);
             setSubmitOpen(true);

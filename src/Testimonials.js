@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import TestimonialModal from './TestimonialModal';
 import morrette from './assets/morrette.jpeg';
 import nick from './assets/nick.jpg';
-import frei from './assets/frei.jpg';
+import frei from './assets/frei.jpeg';
 import cam from './assets/cam.jpeg';
 import tanner from './assets/tanner.JPG';
 import jess from './assets/jess.jpeg';
